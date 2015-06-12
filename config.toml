@@ -5,12 +5,13 @@ theme = "crisp"
 base_url = ""
 
 [params]
-	description = "The personal blog of Srijan Choudhary about programming, technology, linux"
-	author = "Srijan Choudhary"
-	twitter = "srijan4"
-	tag_domain = "www.srijn.net"
-	creation_date = "2012-10-08"
+  description = "The personal blog of Srijan Choudhary about programming, technology, linux"
+  author = "Srijan Choudhary"
+  twitter = "srijan4"
+  tag_domain = "www.srijn.net"
+  creation_date = "2012-10-08"
+  gplus = "111781135820248974565"
 
 [author]
-	name = "Srijan Choudhary"
-	email = "srijan4@gmail.com"
+  name = "Srijan Choudhary"
+  email = "srijan4@gmail.com"

@@ -1,8 +1,13 @@
-all:
+
+all: folders
 	hugo
 
 clean:
 	rm -r public
 
-server:
+server: folders
 	hugo server -w
+
+folders:
+	mkdir -p static
+

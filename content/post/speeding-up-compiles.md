@@ -3,8 +3,6 @@ title: Speeding up compiles
 tags: [ccache, icecream, distributed, compile, linux, libreoffice]
 description: "Speeding up compile times in C"
 date: "2013-08-14T00:00:00"
-aliases: "/programming/speeding-up-compiles.html"
-slug: "speeding-up-compiles"
 ---
 
 I got interested in [LibreOffice][1] a few days ago, and wanted to contribute. I wanted to see how a large project is run, and the [Easy Hacks][2] section looked easy enough to begin.

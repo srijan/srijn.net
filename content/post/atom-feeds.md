@@ -2,8 +2,6 @@
 title: Atom feeds
 tags: [atom, blog]
 date: "2014-09-21T00:00:00"
-aliases: "/notes/atom-feeds.html"
-slug: "atom-feeds"
 ---
 
 For implementing feeds for the [Isso commenting server][1], I was researching
@@ -24,7 +22,7 @@ level comment, then that would be a flat list of all replies to the comment.
 #### Feed URI
 
 Every Atom entry must have a unique ID. [This page][4] has some intersting ways
-to generate the ID. I think the best thing is to generate a [tag URI][5] at the
+to generate the ID. I think the best way is to generate a [tag URI][5] at the
 time of comment creation, store it, and use it forever for that resource.
 
 #### Reduce load/bandwidth by using `If-None-Match`

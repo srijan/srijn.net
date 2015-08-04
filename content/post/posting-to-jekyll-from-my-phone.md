@@ -7,8 +7,6 @@ tags:
   - github
   - prose
 date: "2013-02-22T00:00:00"
-aliases: "/blogging/posting-to-jekyll-from-my-phone.html"
-slug: "posting-to-jekyll-from-my-phone"
 ---
 
 I recently set up my blog so that I can update it from my mobile or any browser.

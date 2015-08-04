@@ -2,6 +2,7 @@
 title: Vagrant box for Archlinux 64 bit
 tags: [vagrant, archlinux, virtualbox]
 date: "2013-08-18T00:00:00"
+aliases: "/programming/vagrant-box-for-archlinux.html"
 ---
 
 I have been using [Vagrant][1] a lot since its beginning, and the boxes provided by them have been enough till now.

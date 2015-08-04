@@ -2,6 +2,7 @@
 title: Read only root on Linux
 tags: [linux, sysadmin]
 date: "2015-02-28T00:00:00"
+aliases: "/linux/read-only-root-on-linux.html"
 ---
 
 In many cases, it is required to run a system in such a way that it is tolerant of uncontrolled power losses, resets, etc. After such an event occurs, it should atleast be able to boot up and connect to the network so that some action can be taken remotely.

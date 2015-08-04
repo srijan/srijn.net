@@ -3,6 +3,7 @@ title: Posting to Jekyll from my phone - Details
 tags: [jekyll, blogging, mobile, github, prose]
 description: "Details about posting to jekyll using a phone"
 date: "2013-03-25T00:00:00"
+aliases: "/blogging/posting-to-jekyll-from-my-phone-details.html"
 ---
 
 This is an update to [an earlier post](/blogging/posting-to-jekyll-from-my-phone.html).

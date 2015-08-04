@@ -2,6 +2,7 @@
 title: Django, uWSGI, Nginx on Freebsd
 tags: [sysadmin, freebsd, python, nginx]
 date: "2015-03-05T00:00:00"
+aliases: "/notes/django-uwsgi-nginx-on-freebsd.html"
 ---
 
 Here are the steps I took for configuring Django on Freebsd using

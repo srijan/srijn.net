@@ -2,6 +2,7 @@
 title: Atom feeds
 tags: [atom, blog]
 date: "2014-09-21T00:00:00"
+aliases: "/notes/atom-feeds.html"
 ---
 
 For implementing feeds for the [Isso commenting server][1], I was researching

@@ -76,7 +76,7 @@
         <header id="header">
             <a id="logo" href="{{ .Site.BaseURL }}"></a>
             <h1><a href="{{.Site.BaseURL}}">{{.Site.Title}}</a></h1>
-            <p>{{.Description}}</p>
+            <p>{{.Site.Params.description}}</p>
 
             {{ partial "follow.html" . }}
             {{ partial "navigation.html" . }}

@@ -1,17 +1,16 @@
 baseurl = "https://www.srijn.net"
 languageCode = "en-us"
 title = "srijan's blog"
-theme = "herring-cove"
+theme = "crisp"
 
 [permalinks]
   post = "/:year/:month/:title/"
+  page = "/:filename"
 
 [params]
-  description = "The personal blog of Srijan Choudhary about programming, technology, linux"
+  description = "Random posts on programming, linux, system administration, etc"
   author = "Srijan Choudhary"
-  twitter = "https://twitter.com/srijan4"
-  github = "https://github.com/srijan"
-  linkedin = "https://in.linkedin.com/in/srijan4"
+  twitter = "srijan4"
   tag_domain = "www.srijn.net"
   creation_date = "2012-10-08"
   gplus = "111781135820248974565"
